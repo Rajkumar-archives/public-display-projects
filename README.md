@@ -1,2 +1,2 @@
 # public-display-projects
-projects added for displaying experience.
+Collection of projects added for showcasing my skills.
