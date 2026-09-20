@@ -1,0 +1,92 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price": 51.77,
+    "rating": 3,
+    "in_stock": true
+  },
+  {
+    "title": "Tipping the Velvet",
+    "price": 53.74,
+    "rating": 1,
+    "in_stock": true
+  },
+  {
+    "title": "Soumission",
+    "price": 50.1,
+    "rating": 1,
+    "in_stock": true
+  },
+  {
+    "title": "Sharp Objects",
+    "price": 47.82,
+    "rating": 4,
+    "in_stock": true
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "price": 54.23,
+    "rating": 5,
+    "in_stock": true
+  },
+  {
+    "title": "The Requiem Red",
+    "price": 22.65,
+    "rating": 1,
+    "in_stock": true
+  },
+  {
+    "title": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price": 33.34,
+    "rating": 4,
+    "in_stock": true
+  },
+  {
+    "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "price": 17.93,
+    "rating": 3,
+    "in_stock": true
+  },
+  {
+    "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "price": 22.6,
+    "rating": 4,
+    "in_stock": true
+  },
+  {
+    "title": "The Black Maria",
+    "price": 52.15,
+    "rating": 1,
+    "in_stock": true
+  },
+  {
+    "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "price": 13.99,
+    "rating": 2,
+    "in_stock": true
+  },
+  {
+    "title": "Shakespeare's Sonnets",
+    "price": 20.66,
+    "rating": 4,
+    "in_stock": true
+  },
+  {
+    "title": "Set Me Free",
+    "price": 17.46,
+    "rating": 5,
+    "in_stock": true
+  },
+  {
+    "title": "Scott Pilgrim's Precious Little Life",
+    "price": 52.29,
+    "rating": 5,
+    "in_stock": true
+  },
+  {
+    "title": "Rip it Up and Start Again",
+    "price": 35.02,
+    "rating": 5,
+    "in_stock": true
+  }
+]
